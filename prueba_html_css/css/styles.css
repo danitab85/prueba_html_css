@@ -1,0 +1,40 @@
+
+.navbar {
+  font-family: 'Baloo Chettan', cursive;
+}
+
+.navbar-dark .navbar-brand {color:#e0a800;}
+
+
+.jumbotron {
+  background-image: url("../img/nina_cancer2.jpg");
+  background-repeat: no-repeat; background-position: center; background-size:100%;
+  height: 50vh; margin-top: 6%;
+}
+.texto {float: right;}
+h1 {color: #d71868;}
+h2 {color: #f5f5f5;}
+p {color: #483c32;}
+h3 {color: #ffcc00;}
+
+#seccion {color: #e0a800; text-align: center;}
+h5 {color: #e0a800;}
+.card-title{color: #ffcc00;}
+
+.card img {max-height:30vh;}
+
+#linkespecial {margin-top: 20vh;}
+#boton1 {margin-top: 23vh;}
+#boton2 {margin-top: 9vh;}
+
+.form-control {width: 50%; display: inline-block;}
+
+.carousel img{opacity: 0.5; max-height: 80vh;}
+
+#titulocarrusel {font-size: 10vh; color: #ffcc00;}
+#cuerpo {font-size: 3vh;}
+.container img {max-height: 20vh;}
+
+.blog img {max-height: 50vh;margin-top: 6%;}
+
+#tituloseccion {color: #ffcc00; text-align: center;}
